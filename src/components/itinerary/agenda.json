@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_itinerary_agenda",
+  "info": {
+    "displayName": "agenda"
+  },
+  "options": {},
+  "attributes": {
+    "waktu": {
+      "type": "string"
+    },
+    "kegiatan": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_item_harga_pakets",
+  "info": {
+    "displayName": "harga-paket"
+  },
+  "options": {},
+  "attributes": {
+    "nama_penginapan": {
+      "type": "string"
+    },
+    "jenis_kamar": {
+      "type": "string"
+    },
+    "harga_paket": {
+      "type": "integer"
+    },
+    "satuan": {
+      "type": "enumeration",
+      "enum": [
+        "pax",
+        "couple"
+      ]
+    },
+    "jenis_kapal": {
+      "type": "enumeration",
+      "enum": [
+        "Siginjai",
+        "Ekspress Bahari"
+      ]
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_item_destinasis",
+  "info": {
+    "displayName": "destinasi"
+  },
+  "options": {},
+  "attributes": {
+    "nama_destinasi": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

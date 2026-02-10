@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_item_perlengkapans",
+  "info": {
+    "displayName": "perlengkapan"
+  },
+  "options": {},
+  "attributes": {
+    "nama_barang": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

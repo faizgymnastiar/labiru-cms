@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_item_fasilitas",
+  "info": {
+    "displayName": "fasilitas"
+  },
+  "options": {},
+  "attributes": {
+    "nama_fasilitas": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

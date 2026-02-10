@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "kontaks",
+  "info": {
+    "singularName": "kontak",
+    "pluralName": "kontaks",
+    "displayName": "kontak"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "whatsapp": {
+      "type": "string"
+    },
+    "whatsapp_text": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "tiktok": {
+      "type": "string"
+    },
+    "alamat": {
+      "type": "text"
+    },
+    "maps_embed": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_itinerary_haris",
+  "info": {
+    "displayName": "hari"
+  },
+  "options": {},
+  "attributes": {
+    "hari_ke": {
+      "type": "string"
+    },
+    "agenda": {
+      "type": "component",
+      "component": "itinerary.agenda",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}
